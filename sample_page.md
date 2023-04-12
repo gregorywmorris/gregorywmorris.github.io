@@ -32,6 +32,8 @@ test video <br>
 {% raw %} {% include youtube.html id="JLMbpiywVxQ" %}
 {% endraw %}
 
+{% include youtube.html id="JLMbpiywVxQ" %}
+
 <br>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
