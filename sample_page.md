@@ -25,9 +25,7 @@ if (isAwesome){
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 test video <br>
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 <br>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
