@@ -28,8 +28,6 @@ if (isAwesome){
 test video <br>
 [Make gifs from youtube videos here](https://youtube-to-gif.file-converter-online.com/#) <br>
 
-[<img src="https://github.com/gregorywmorris/gregorywmorris.github.io/blob/master/images/youtube-screenshot.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
-<br>
 
 {% raw %} {% include youtube.html id="JLMbpiywVxQ" %}
 {% endraw %}
