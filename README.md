@@ -41,7 +41,7 @@ Added _includes folder with iframe HTML template.
 
 Video can be linked by using "{% include youtube.html id="enter the youtube ID here" %}"
 
-Credit [Christian Heilmann](https://github.com/codepo8)
+Credit [Christian Heilmann](https://github.com/codepo8) <br>
 Posted on September 14, 2022 [here](https://dev.to/codepo8/quick-tip-embedding-youtube-videos-in-github-pages-4e36)
 
 <br>
