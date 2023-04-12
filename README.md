@@ -38,7 +38,7 @@ Syntax highlighted code block
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). <br>
 
-### Embeded Video
+### Embedded Video
 Added _includes folder with iframe HTML template. 
 
 Video can be linked by using "{% include youtube.html id="enter the youtube ID here" %}"
