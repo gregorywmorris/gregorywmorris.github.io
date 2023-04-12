@@ -28,7 +28,7 @@ if (isAwesome){
 test video <br>
 [Make gifs from youtube videos here](https://youtube-to-gif.file-converter-online.com/#) <br>
 
-[<img src="https://github.com/gregorywmorris/gregorywmorris.github.io/blob/master/images/youtube-video-gif.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55"){:target="_blank" rel="noopener"}
+[<img src="https://github.com/gregorywmorris/gregorywmorris.github.io/blob/master/images/youtube-video-gif.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 <br>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
