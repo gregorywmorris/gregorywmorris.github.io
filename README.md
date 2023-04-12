@@ -36,6 +36,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). <br>
+
 ### Embeded Video
 Added _includes folder with iframe HTML template. 
 
@@ -44,7 +46,6 @@ Video can be linked by using "{% include youtube.html id="enter the youtube ID h
 Credit [Christian Heilmann](https://github.com/codepo8) <br>
 Posted on September 14, 2022 [here](https://dev.to/codepo8/quick-tip-embedding-youtube-videos-in-github-pages-4e36) <br>
 <br>
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Roadmap
 
