@@ -18,6 +18,7 @@ The First Midwest Bank manual payment process suffered from being inconsistent w
 <br/>
 [Full Analysis](https://docs.google.com/document/d/1jbxN0M2KpTpJgfwbi7aC-399NxjoSLk37FMR38w4Zms/edit#heading=h.f1e31r8fqqlv)
 ---
+---
 ![Zombified](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/zombified-title-page.jpg)
 <br/>
 
