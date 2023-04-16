@@ -1,8 +1,7 @@
-## Portfolio
+# Projects
 
 ---
 
-### Projects
 
 ## Analytics
 
