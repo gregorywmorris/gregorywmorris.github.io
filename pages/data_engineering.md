@@ -1,5 +1,5 @@
 # Data Engineering
-## Stroke Prediction Machine Learning
+## Machine Learning: Stroke Prediction 
 
 ![Stroke Prediction API](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/stroke-prediction-api.jpg)
 
