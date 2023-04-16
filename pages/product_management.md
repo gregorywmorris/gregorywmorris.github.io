@@ -13,11 +13,12 @@ The First Midwest Bank manual payment process suffered from being inconsistent w
 * Root Casue Analysis
 * Product & Process Improvement
 
-[Presentation](https://docs.google.com/presentation/d/14TFFGvSL8X_7KWiZ-YaJo2-WaXOir-W5_K2-OFyCVa0/edit#slide=id.p)
+#### [Presentation](https://docs.google.com/presentation/d/14TFFGvSL8X_7KWiZ-YaJo2-WaXOir-W5_K2-OFyCVa0/edit#slide=id.p)
+
+#### [Full Analysis](https://docs.google.com/document/d/1jbxN0M2KpTpJgfwbi7aC-399NxjoSLk37FMR38w4Zms/edit#heading=h.f1e31r8fqqlv)
+
 <br/>
-[Full Analysis](https://docs.google.com/document/d/1jbxN0M2KpTpJgfwbi7aC-399NxjoSLk37FMR38w4Zms/edit#heading=h.f1e31r8fqqlv)
-<br/>
-<br/>
+
 ![Zombified](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/zombified-title-page.jpg)
 <br/>
 
@@ -28,4 +29,4 @@ A pitch deck for a healthcare app using personal health devices, health history,
 - Personas
 - Product Ideation
 
-[Presentation](https://docs.google.com/presentation/d/12chbSBhanYboxeGnCPuZYenzVo06dBSRGAdjmQblsVQ/edit#slide=id.g35f391192_00)
+#### [Presentation](https://docs.google.com/presentation/d/12chbSBhanYboxeGnCPuZYenzVo06dBSRGAdjmQblsVQ/edit#slide=id.g35f391192_00)
