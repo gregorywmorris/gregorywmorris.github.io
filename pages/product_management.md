@@ -26,6 +26,6 @@ A pitch deck for a healthcare app using personal health devices, health history,
 - Market Research
 - User Research
   - Personas
--  Product Ideation
+- Product Ideation
 
 [Presentation](https://docs.google.com/presentation/d/12chbSBhanYboxeGnCPuZYenzVo06dBSRGAdjmQblsVQ/edit#slide=id.g35f391192_00)
