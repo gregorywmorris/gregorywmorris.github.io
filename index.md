@@ -4,23 +4,21 @@
 
 
 ## Analytics
-
-[![guy making a dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
+[![Guy Making a Dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
 
 
 ---
-[Data Engineering](/data_engineering)
-<img src="images/data-engineering-guy.jpg?raw=true"/>
+## Data Engineering
+[![Data Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)(/data_engineering)
+
 
 ---
-[Product Management](/product_management)
-<img src="images/product-management-people.jpg?raw=true"/>
+## Product Management
+[![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)(/product_management)
+
 
 ---
-
-
-
-
+<br/>
 
 
 ---
