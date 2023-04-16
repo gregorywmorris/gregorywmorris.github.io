@@ -4,8 +4,8 @@
 
 ### Projects
 
-[Analytics](/analytics)
-<img src="images/guy-making-dashboard.jpg?raw=true"/>
+[Analytics](img src="images/guy-making-dashboard.jpg?raw=true")](/analytics)
+
 
 ---
 [Data Engineering](/data_engineering)
