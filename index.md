@@ -4,7 +4,9 @@
 
 ### Projects
 
-[Analytics](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
+## Analystics
+
+[(https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
 
 
 ---
