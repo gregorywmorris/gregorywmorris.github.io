@@ -6,7 +6,7 @@
 
 ## Analystics
 
-[[!guy making a dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
+[![guy making a dashboard](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/guy-making-dashboard.jpg)](/analytics)
 
 
 ---
