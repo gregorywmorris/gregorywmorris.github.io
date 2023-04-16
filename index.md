@@ -9,12 +9,12 @@
 
 ---
 ## Data Engineering
-[![Data Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)(/data_engineering)
+[![Data Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](/data_engineering)
 
 
 ---
 ## Product Management
-[![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)(/product_management)
+[![Product Management People](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/product-management-people.jpg)](/product_management)
 
 
 ---
