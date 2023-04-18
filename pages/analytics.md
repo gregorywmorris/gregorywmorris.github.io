@@ -12,8 +12,7 @@ A project scenario where I am placed in a leadership position of a struggling bu
 
 #### [GitHub](https://github.com/gregorywmorris/excel-with-excel/tree/main/pivotWithPivotTables)
 
-
-![Tableau](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/icon-tableau-400x400.png =300x300)
+![Tableau](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/icon-tableau-400x400.png)
 
 Tableau Public page showcasing Tableau projects.
 
