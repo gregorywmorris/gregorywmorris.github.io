@@ -9,3 +9,5 @@ Here is a simple cheat sheet:
 * Left arrow (←): `&larr;`
 * Right arrow (→): `&rarr;`
 * Double headed arrow (↔): `&harr;`
+
+[Making dynamic markdown](https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/)
