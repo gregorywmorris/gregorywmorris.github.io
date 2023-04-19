@@ -1,4 +1,4 @@
-[&larr; back](https://github.com/gregorywmorris/gregorywmorris.github.io/blob/master/_config.yml)
+#### [&larr; back](https://gregorywmorris.github.io/)
 # Analytics
 
 #### Pivot With Pivot Tables
