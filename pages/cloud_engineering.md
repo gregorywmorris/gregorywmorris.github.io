@@ -20,7 +20,7 @@ Unguided midterm project for ML Zoomcamp. I chose stroke prediction as it would 
 * AWS Elastic Container Registry
 * AWS Elastic Container Service
 * Containerization with BentoML
-* Open API through BentoML - hosted on AWS
+* Open API through BentoML
 
 #### [GitHub Repository](https://github.com/gregorywmorris/MLZoom2022/tree/main/midterm)
 
