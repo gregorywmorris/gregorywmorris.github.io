@@ -12,7 +12,7 @@ Data Documentation - Data Cleaning - Statistical Data Analysis - Domain Knowlead
 ---
 ### Tech Stack
 
-| Jupyter Notebook | AWS Elastic Container Registry | AWS Elastic Container Service | Containerization with BentoML | Open API through BentoML |
+Jupyter Notebook - AWS Elastic Container Registry - AWS Elastic Container Service - Containerization with BentoML - Open API through BentoML
 
 ---
 {% include youtube.html id="PjlBtpGWo74" %}
