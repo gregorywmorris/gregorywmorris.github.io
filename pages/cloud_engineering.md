@@ -5,7 +5,7 @@
 #### [GitHub Repository](https://github.com/gregorywmorris/MLZoom2022/tree/main/midterm)
 
 ---
- ### Skills 
+### Skills 
 
 | Data Documentation | Data Cleaning | Statistical Data Analysis | Domain Knowleadge Research | Feature Engineering | Model Selection | Model tuning | Model Deployment
 
