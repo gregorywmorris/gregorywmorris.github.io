@@ -7,7 +7,7 @@
 ---
 ### Skills 
 
-| Data Documentation | Data Cleaning | Statistical Data Analysis | Domain Knowleadge Research | Feature Engineering | Model Selection | Model tuning | Model Deployment |
+Data Documentation - Data Cleaning - Statistical Data Analysis - Domain Knowleadge Research - Feature Engineering - Model Selection - Model tuning - Model Deployment
 
 ---
 ### Tech Stack
