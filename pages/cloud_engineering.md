@@ -2,8 +2,6 @@
 # Cloud Engineering
 ## Machine Learning: Stroke Prediction 
 
-Unguided midterm project for ML Zoomcamp. I chose stroke prediction as it would be one of the factors to be caculated in the health score for the [Zombified project](https://gregorywmorris.github.io/pages/product_management).
-
 #### [GitHub Repository](https://github.com/gregorywmorris/MLZoom2022/tree/main/midterm)
 
 ---
