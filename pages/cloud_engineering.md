@@ -9,12 +9,12 @@ Unguided midterm project for ML Zoomcamp. I chose stroke prediction as it would 
 ---
 ### Skills
 
- Data Documentation | Data Cleaning | Statistical Data Analysis | Domain Knowleadge Research | Feature Engineering | Model Selection | Model tuning | Model Deployment
+| Data Documentation | Data Cleaning | Statistical Data Analysis | Domain Knowleadge Research | Feature Engineering | Model Selection | Model tuning | Model Deployment
 
 ---
 ### Tech Stack
 
- Jupyter Notebook | AWS Elastic Container Registry | AWS Elastic Container Service | Containerization with BentoML | Open API through BentoML
+| Jupyter Notebook | AWS Elastic Container Registry | AWS Elastic Container Service | Containerization with BentoML | Open API through BentoML
 
 ---
 {% include youtube.html id="PjlBtpGWo74" %}
