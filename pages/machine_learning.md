@@ -1,7 +1,7 @@
 ### [&larr; back](https://gregorywmorris.github.io/)
 # Machnine Learning
 
-## Machine Learning: Stroke Prediction 
+## Stroke Prediction 
 
 #### [GitHub Repository](https://github.com/gregorywmorris/MLZoom2022/tree/main/midterm)
 
