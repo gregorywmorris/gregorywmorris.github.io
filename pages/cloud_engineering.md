@@ -1,5 +1,6 @@
 ### [&larr; back](https://gregorywmorris.github.io/)
-# Cloud Engineering
+# Machnine Learning
+
 ## Machine Learning: Stroke Prediction 
 
 #### [GitHub Repository](https://github.com/gregorywmorris/MLZoom2022/tree/main/midterm)
