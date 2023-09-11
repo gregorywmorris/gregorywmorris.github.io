@@ -1,6 +1,13 @@
 ### [&larr; back](https://gregorywmorris.github.io/)
 # Analytics
 
+
+![Tableau](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/icon-tableau-400x400.png)
+
+Tableau Public page showcasing Tableau projects.
+
+#### [Tableau Projects](https://public.tableau.com/app/profile/gregory.morris4179)
+
 #### Pivot With Pivot Tables
 ![mall](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/mall.jpg)
 
@@ -13,8 +20,4 @@ A project scenario where I am placed in a leadership position of a struggling bu
 
 #### [GitHub](https://github.com/gregorywmorris/excel-with-excel/tree/main/pivotWithPivotTables)
 
-![Tableau](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/icon-tableau-400x400.png)
 
-Tableau Public page showcasing Tableau projects.
-
-#### [Tableau Projects](https://public.tableau.com/app/profile/gregory.morris4179)
