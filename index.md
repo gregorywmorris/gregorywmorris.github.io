@@ -8,7 +8,7 @@
 
 
 ---
-## Cloud Engineering
+## Machnine Learning
 [![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/cloud_engineering)
 
 
