@@ -9,7 +9,7 @@
 
 ---
 ## Machine Learning
-[![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/data-engineering-guy.jpg)](pages/cloud_engineering)
+[![Cloud Engineering Guy](https://raw.githubusercontent.com/gregorywmorris/gregorywmorris.github.io/master/images/machine-learning.jpg)](pages/cloud_engineerin)
 
 
 ---
