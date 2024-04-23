@@ -16,23 +16,23 @@ const clean         = require('gulp-clean');
 // Paths
 var paths = {
     root: { 
-        www:        './public_html'
+        www:        './'
     },
     src: {
-        root:       'public_html/assets',
-        html:       'public_html/**/*.html',
-        css:        'public_html/assets/css/*.css',
-        js:         'public_html/assets/js/*.js',
-        vendors:    'public_html/assets/vendors/**/*.*',
-        imgs:       'public_html/assets/imgs/**/*.+(png|jpg|gif|svg)',
-        scss:       'public_html/assets/scss/**/*.scss'
+        root:       'assets',
+        html:       '**/*.html',
+        css:        'assets/css/*.css',
+        js:         'assets/js/*.js',
+        vendors:    'assets/vendors/**/*.*',
+        imgs:       'assets/imgs/**/*.+(png|jpg|gif|svg)',
+        scss:       'assets/scss/**/*.scss'
     },
     dist: {
-        root:       'public_html/dist',
-        css:        'public_html/dist/css',
-        js:         'public_html/dist/js',
-        imgs:       'public_html/dist/imgs',
-        vendors:    'public_html/dist/vendors'
+        root:       'dist',
+        css:        'dist/css',
+        js:         'dist/js',
+        imgs:       'dist/imgs',
+        vendors:    'dist/vendors'
     }
 }
 
